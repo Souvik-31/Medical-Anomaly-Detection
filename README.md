@@ -1,1 +1,1 @@
-# Medical-Anomaly
+# Medical-Anomaly-Detection
